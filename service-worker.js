@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ogunstudentawards/precache-manifest.c7d4d6e750540794f5c24f3aa8e75cb2.js"
+  "/ogunaward/precache-manifest.18b7982f3948629e002739c1faa3e9d9.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/ogunstudentawards/index.html", {
+workbox.routing.registerNavigationRoute("/ogunaward/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
