@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9b9d72eba00045804301",
-    "url": "/ogunaward/static/css/main.fe40accf.chunk.css"
+    "revision": "161d125f320ff3eb27ee",
+    "url": "/ogunaward/static/css/main.032a46e8.chunk.css"
   },
   {
-    "revision": "9b9d72eba00045804301",
-    "url": "/ogunaward/static/js/main.0352e560.chunk.js"
+    "revision": "161d125f320ff3eb27ee",
+    "url": "/ogunaward/static/js/main.e4f1f74c.chunk.js"
   },
   {
     "revision": "62071940c11bcdacb36f",
@@ -48,12 +48,12 @@ self.__precacheManifest = [
     "url": "/ogunaward/static/media/faq.a8f7100b.png"
   },
   {
-    "revision": "ea93fd2614e587bab233078c6822c6a9",
-    "url": "/ogunaward/static/media/icon-.ea93fd26.svg"
-  },
-  {
     "revision": "6716c861aec37b334775d9ad18c94343",
     "url": "/ogunaward/static/media/icon+.6716c861.svg"
+  },
+  {
+    "revision": "ea93fd2614e587bab233078c6822c6a9",
+    "url": "/ogunaward/static/media/icon-.ea93fd26.svg"
   },
   {
     "revision": "eb8b9dbf28e03e31e73c78d141a95933",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/ogunaward/static/media/banner_bg.01aaa073.png"
   },
   {
-    "revision": "98b9b380e8780dd53bc3eb4f1ce1b0b2",
+    "revision": "2a04fc55ec50406679f3c9595eb33f02",
     "url": "/ogunaward/index.html"
   }
 ];
